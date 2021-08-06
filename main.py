@@ -120,4 +120,4 @@ async def board_help(ctx):
     await ctx.send(msg)
 
 #runs client using token
-client.run('ODcwNzk5MDIyMDE5OTgxMzIz.YQSAyQ.hI1xn9I24_sUeybIb4K8fzDb3YY')
+client.run("TOKEN")
